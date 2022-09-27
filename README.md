@@ -10,9 +10,9 @@ File templates to help in starting your repository. Most of the templates here a
 
 - [ ] Contributing
 
-- [ ] Security
+- [x] Security
 
-- [ ] Issues (_deprecated by Github_)
+- [x] Issues (_deprecated by Github_)
 
 ## Readmes
 
@@ -36,3 +36,10 @@ File templates to help in starting your repository. Most of the templates here a
 
 - [The Unlicense](License/The%20Unlicense.txt)
 
+
+
+## Issues
+
+- [Issues](Issues/Issues.md)
+
+- [Security](Issues/Security.md)
